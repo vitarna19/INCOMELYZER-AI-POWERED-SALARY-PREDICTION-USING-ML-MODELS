@@ -1,6 +1,6 @@
 # INCOMELYZER-AI-POWERED-SALARY-PREDICTION-USING-ML-MODELS
 
-# Incomelyzer 💼
+# Incomelyzer 
 **Insightful salary analysis + prediction in one app**
 
 ## Overview
